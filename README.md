@@ -17,8 +17,8 @@ Erode the image
 Dilate the Image
 ## Program:
 ``` Python
-Developed by : THANJIYAPPAN K
-Register Number : 212222240108
+Developed by : A K MOHAN RAJ
+Register Number : 212221230064
 ```
 # Import the necessary packages
 ```python
